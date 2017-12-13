@@ -1,0 +1,52 @@
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Bot Application.dll.config
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Bot Application.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Bot Application.pdb
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Autofac.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Chronic.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Newtonsoft.Json.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Web.Http.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Autofac.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\Newtonsoft.Json.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Web.Http.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\obj\Debug\Day1Bot.csprojResolveAssemblyReference.cache
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\obj\Debug\Day1Bot.csproj.CoreCompileInputs.cache
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\obj\Debug\Bot Application.dll
+C:\Users\GEOAFFL\Source\Repos\Day1Bot\Day1Bot\obj\Debug\Bot Application.pdb
